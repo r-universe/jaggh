@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "climatol"]
+	path = climatol
+	url = https://github.com/cran/climatol
+	shallow = true
+	registered = true
